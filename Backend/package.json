@@ -1,0 +1,13 @@
+{
+  "name": "smoothies",
+  "version": "1.0.0",
+  "description": "This is a project by Pranay Dhirendra Pandey to learn JWT",
+  "license": "ISC",
+  "author": "Pranay Pandey",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  }
+}
