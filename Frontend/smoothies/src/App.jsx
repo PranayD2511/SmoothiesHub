@@ -8,7 +8,7 @@ const App = () => {
     {
       path:'/',
       element:
-      <div className='bg-pink-100 p-3'>
+      <div className='min-h-screen bg-pink-100 p-3'>
         <NavBar></NavBar>
         <Home></Home>
       </div>
